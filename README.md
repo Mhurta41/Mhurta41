@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello! My name is Marj! 👋
 
-<!--
-**Mhurta41/Mhurta41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a Customer Portal for OpenSymmetry.
+- 🌱 I’m currently learning C#.
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I love to stay active! I love the outdoors and going hiking! I'm coming up on my 9th year playing Women's Rugby as well.
 
-Here are some ideas to get you started:
+### About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- As a developer, I find great satisfaction in continually sharpening my skills
+- I enjoy creating beautiful, useful projects from scratch
+- I like finding creative solutions to problems/challenges
+- I thrive in collaborative settings.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/marjhurtado/">LinkedIn</a>, <a href="mailto: mhurta41@gmail.com">Email</a>, <a href="https://marj-hurtado.netlify.app/">Portfolio</a>
