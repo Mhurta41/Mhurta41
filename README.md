@@ -1,6 +1,6 @@
 ### Hello! My name is Marj! 👋
 
-- 🔭 I’m currently working on a Customer Portal for OpenSymmetry.
+- 🔭 I’m currently working on a Customer Dashboard Portal for OpenSymmetry.
 - 🌱 I’m currently learning C#.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love to stay active! I love the outdoors and going hiking! I'm coming up on my 9th year playing Women's Rugby as well.
