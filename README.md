@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I love to stay active! I love the outdoors and going hiking! I'm coming up on my 9th year playing Women's Rugby as well.
 
 ### About me:
-- Fullstack Developer
+- Fullstack Software Engineer
 - As a developer, I find great satisfaction in continually sharpening my skills
 - I enjoy creating beautiful, useful projects from scratch
 - I like finding creative solutions to problems/challenges
